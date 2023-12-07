@@ -1,0 +1,19 @@
+{
+  "name": "app04",
+  "version": "1.0.0",
+  "description": "This application uses sequelize for DB connection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yigezu1/App04.git"
+  },
+  "author": "Yigezu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yigezu1/App04/issues"
+  },
+  "homepage": "https://github.com/Yigezu1/App04#readme"
+}
